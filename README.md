@@ -1,6 +1,6 @@
 Hi, I'm Timohych 👋
 
-### 🦀 Rust coder | Linux enthusiast | Window manager ricer
+### 🦀 Rust coder
 
 ---
 
