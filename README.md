@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! / Привіт!
+My name is Timofey, i am ukrainian self-learned programmer and musician.
+## My programming languages
 
-<!--
-**Timohych/Timohych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦀 **Rust** - My favourite language🧡
+- 💙 **C** - My second favourite language
+- 🐍 **Python** - I just needed to write a Telegram bot, so i learned it 
+- ☕️ **Java** - I learned it just because i had a book, i dont use it a lot
 
-Here are some ideas to get you started:
+## My contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### https://t.me/GNUgeneralpubliclicense
+
+### timohych@tutamail.com
+
+
+
